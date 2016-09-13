@@ -1,0 +1,20 @@
+{
+  "name": "watchify-browserfy-learn",
+  "version": "1.0.0",
+  "description": "watchify-browserfy-learn",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^13.1.0",
+    "gulp": "^3.9.1",
+    "gulp-sourcemaps": "^1.6.0",
+    "lodash.assign": "^4.2.0",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "watchify": "^3.7.0"
+  }
+}
